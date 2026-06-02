@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave Greeting">
   <h1>Hi there, I'm Manideep Chanda!</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Student Developer AIML-Undergrad Tech+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Student;Developer;AIML-Undergrad;Tech+Content+Creator" alt="Typing SVG" />
 </div>
 
 ---
