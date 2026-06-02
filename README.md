@@ -15,7 +15,7 @@ I'm an Artificial Intelligence and Machine Learning B.Tech student with a passio
 
 * 🔭 I’m currently working on building dynamic web applications and experimenting with AI/ML projects.
 * 🌱 I’m constantly exploring new Linux distributions and optimizing my development environment.
-* 📷 When I'm not coding, you can find me experimenting with photography and visual media editing.
+* 📷 When I'm not coding, you can find me experimenting with photography and studying.
 * ⚡ Fun fact: I have a knack for finding the best local South Indian breakfast spots!
 
 ---
@@ -48,28 +48,6 @@ I'm an Artificial Intelligence and Machine Learning B.Tech student with a passio
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manideep71234&theme=darkhub" alt="Manideep71234 Trophies" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manideep71234&theme=tokyonight&show_icons=true" alt="Manideep71234's GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manideep71234&theme=tokyonight" alt="Manideep71234's GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep71234&theme=tokyonight&layout=compact" alt="Top Languages" />
-</div>
 
 ---
 
